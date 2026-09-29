@@ -1,5 +1,5 @@
 <?php
-require_once _DIR_ . '/Livro.php';
+require_once __DIR__ . '/Livro.php';
 
 /**
  * DESAFIO (Aula 3):
