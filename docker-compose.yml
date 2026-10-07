@@ -40,6 +40,7 @@ services:
     networks:
     - php-network
 
+#docker compose exec lavarel bash
   laravel:
     image: php:8.3-cli
     working_dir: /app
